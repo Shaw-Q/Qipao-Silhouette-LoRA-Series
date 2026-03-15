@@ -33,3 +33,6 @@ Flux Guidance: 3.5 - 4.0 (3.5 is the sweet spot for crisp tailoring details)
 
 Sampling Steps: 20 - 30
 
+## 📥 Download the Models
+You can download the `.safetensors` model files directly from the https://github.com/Shaw-Q/Qipao-Silhouette-LoRA-Series/releases/tag/LoRA
+Models are also available on Civitai
